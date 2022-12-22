@@ -1,1 +1,2 @@
 Criada funcionalidade de consulta para produtos
+Nova funcionalidade de consulta analitica de produtos
